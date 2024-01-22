@@ -1,0 +1,45 @@
+Project Title: Student Performance Regression Analysis
+
+The goal of this project is to build a regression model to predict student performance 
+
+postgre connection -explore
+create database
+add table 
+add new student data
+
+Explore and understand the data structure, features, and relationships.
+Handle missing or inconsistent data.
+
+
+Perform data cleaning, including handling missing values and outliers.
+Feature engineering: create new features if needed.
+Encode categorical variables and standardize/normalize numerical variables.
+
+EDA
+Visualize and analyze the distribution of target variable (student performance).
+Explore relationships between features and the target variable.
+Identify potential correlations and patterns.
+
+Feature Selection:
+explore selectkbest
+Evaluate and select the most relevant features.
+
+Model Selection:
+Choose regression models suitable for the problem (e.g., Linear Regression, Ridge Regression, Lasso Regression).
+Split the data into training and testing sets.
+
+Model Training:
+Train selected models using the training dataset.
+Optimize hyperparameters using techniques like grid search or random search.
+Evaluate models using cross-validation.
+
+ Model Evaluation:
+Evaluate model performance on the testing dataset.
+Find Mean Absolute Error (MAE), Mean Squared Error (MSE), R-squared, and Relative Error.
+
+visualizations for better understanding
+
+Documentation and Reporting:
+Document the entire process, including data preprocessing steps, model selection , results.
+
+
